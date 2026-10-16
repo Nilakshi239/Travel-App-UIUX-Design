@@ -1,4 +1,4 @@
-<img width="1639" height="896" alt="image" src="https://github.com/user-attachments/assets/e93519cc-a90e-4c39-9aba-893d3df3c59a" /># 🌍 Travel App Design | UI/UX Project
+# 🌍 Travel App Design | UI/UX Project
 
 ## 🔗 Figma Design
 
