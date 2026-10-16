@@ -15,7 +15,8 @@ Travel App Design is a personal UI/UX project created in Figma. The project expl
 
 ## 🛠️ Tools Used: Figma, UI/UX Design
 
-## 🖼️ Design Preview: ![Travel App Home Screen](screenshots/Home-screen.png)
+## 🖼️ Design Preview: 
+![Travel App Home Screen](screenshots/Home-screen.png)
 
 ## 🔗 Figma Design: [View My Figma Design](https://www.figma.com/design/1RQk0w7QyXb6h79yicKJyU/Travel-App-Design?node-id=0-1)
 Design Focus: Visual hierarchy, layout, typography, and color consistency.
